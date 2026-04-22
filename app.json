@@ -1,8 +1,8 @@
 {
-  "name": "ANAYAT-AI",
-  "description": "Javascript WhatsApp bot made by 𝙰𝙽𝙰𝚈𝙰𝚃-𝙷𝙰𝙲𝙺𝙴𝚁",
+  "name": "ANAYAT-JB",
+  "description": "Javascript WhatsApp bot made by JB-𝙷𝙰𝙲𝙺𝙴𝚁",
   "logo": "https://files.catbox.moe/adhn5v.jpg",
-  "keywords": ["ANAYAT-AI"],
+  "keywords": ["ANAYAT-JB"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "ANAYAT-AI"
+      "value": "ANAYAT-JB"
     }, 
       
     "PREFIX": {
@@ -78,27 +78,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY ANAYAT-AI 🖤*"
+      "value": "*SEEN YOUR STATUS BY ANAYAT-JB 🖤*"
    
      }, 
     
     "OWNER_NAME": {
-      "description": "Type Bot Owner Name.",
+      "description": "JB papa 71",
       "required": false,
-      "value": "𝙰𝙽𝙰𝚈𝙰𝚃-𝙷𝙰𝙲𝙺𝙴𝚁"
+      "value": "JB-𝙷𝙰𝙲𝙺𝙴𝚁"
 }, 
 
     "OWNER_NUMBER": {
-      "description": "put the owner number for bot.",
+      "description": "917699817202",
       "required": false,
       "value": "92345"
 
     }, 
 
     "BOT_NAME": {
-      "description": "Type here the bot name.",
+      "description": "JB papa 71",
       "required": false,
-      "value": "ANAYAT-AI"
+      "value": "ANAYAT-JB"
 
       }, 
 
