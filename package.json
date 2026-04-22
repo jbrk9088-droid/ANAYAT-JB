@@ -1,12 +1,12 @@
 {
-  "name": "ANAYAT-AI",
+  "name": "ANAYAT-JB",
   "version": "5.0.0",
-  "description": "A WhatsApp Bot Created By ANAYAT-AI",
+  "description": "A WhatsApp Bot Created By JB PAPA 71",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name ANAYAT-AI",
-    "stop": "pm2 stop ANAYAT-AI",
-    "restart": "pm2 restart ANAYAT-AI"
+    "start": "pm2 start index.js --deep-monitoring --attach --name ANAYAT-JB",
+    "stop": "pm2 stop ANAYAT-JB",
+    "restart": "pm2 restart ANAYAT-JB"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "7.0.0-rc.9",
